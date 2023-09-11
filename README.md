@@ -4,6 +4,8 @@ High-Speed disk drive upgrades like US Doubler, Speedy and Happy are supported i
 ALibPc is the recommended software for Atari8Warez SIO2PC/10502PC Dual-USB interfaces. 
 
 DOWNLOAD ALibPC: https://drive.google.com/drive/u/0/folders/17ILn2lPfKYODOOgScb8Ic1z-KnP8S-Qa
+
 DISCUSS ALibPC: https://www.facebook.com/ALibPc.Atari
+
 GET SUPPORT: https://www.facebook.com/groups/160811641202690
 
