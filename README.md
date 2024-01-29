@@ -10,3 +10,4 @@ DISCUSS ALibPC: https://www.facebook.com/ALibPc.Atari
 
 GET SUPPORT: https://www.facebook.com/groups/160811641202690
 
+BUY a 10502PC device from Lotharek: https://lotharek.pl/productdetail.php?id=157
